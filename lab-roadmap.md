@@ -6,6 +6,9 @@
 - [ ] WireGuard
 - [ ] Pi-hole
 - [ ] Docker
+
+## In Progress
+
 - [ ] Wazuh
 
 ## Planned
